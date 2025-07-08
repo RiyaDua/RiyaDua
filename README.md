@@ -43,7 +43,21 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
 
+--- 
 
+### Publications
+
+- Dua R, Bhardwaj T, Ahmad I, Somvanshi P (2024) Investigating the potential of Juglans regia phytoconstituents
+for the treatment of cervical cancer utilizing network biology and molecular docking approach. PLoS ONE 19(4):
+e0287864. <a href = "https://doi.org/10.1371/journal.pone.0287864">https://doi.org/10.1371/journal.pone.0287864</a>
+- Kulshrestha, S., Redhu, R., Dua, R., Gupta, R., Gupta, P., Gupta, S., Narad, P., Sengupta, A. (2024). 16S
+rRNA female reproductive microbiome investigation reveals Dalfopristin, Clorgyline, and Hydrazine as potential
+therapeutics for the treatment of bacterial vaginosis. Diagnostic Microbiology and Infectious Disease, 109(3),
+116349. <a href="https://doi.org/10.1016/j.diagmicrobio.2024.116349">https://doi.org/10.1016/j.diagmicrobio.2024.116349</a>
+- Tandon, A., Gupta, T., Verma, A., Kulshrestha, S., Dua, R., Varghese, S., Gupta, R., Abbasi, N., Narad, P.,
+Chaurasia, A., & Sengupta, A. (2023). Precision at its Core: Machine Learning-Infused Metabolomics Model for
+Preterm Birth Prediction in Human. In Proceedings of the 14th International Conference on Computing, Commu-
+nication and Networking Technologies (ICCCNT). IEEE. <a href = "https://ieeexplore.ieee.org/abstract/document/10307581">https://ieeexplore.ieee.org/abstract/document/10307581</a>
 
 ---
 ### Badges
